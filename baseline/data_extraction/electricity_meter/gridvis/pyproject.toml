@@ -1,0 +1,35 @@
+[build-system]
+requires = ["setuptools >= 80.7.1"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "gridvis"
+version = "1.2.1"
+dependencies = [
+    "pandas>=3.0.0,<4.0.0",
+    "requests>=2.33.0",
+]
+authors = [
+  { name="Christopher Klix", email="christopher.klix@googlemail.com" },
+]
+description = "A wrapper around the GridVis REST API to easily retrieve data from the GridVis."
+readme = "README.md"
+requires-python = ">=3.10"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Operating System :: OS Independent",
+    "License :: other/proprietary",
+]
+
+[project.urls]
+Homepage = "https://github.com/"
+Issues = "https://github.com/"
+
+[tool.setuptools]
+include-package-data = true
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+"gridvis.res" = ["*.pem"]

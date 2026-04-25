@@ -1,0 +1,640 @@
+{
+  "value": [
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "V",
+        "valueName": "Voltage effective",
+        "typeName": "L1",
+        "value": "U_Effective"
+      },
+      "online": false,
+      "id": 21426,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "V",
+        "valueName": "Voltage effective",
+        "typeName": "L2",
+        "value": "U_Effective"
+      },
+      "online": false,
+      "id": 21427,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "V",
+        "valueName": "Voltage effective",
+        "typeName": "L3",
+        "value": "U_Effective"
+      },
+      "online": false,
+      "id": 21428,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2L1",
+        "unit": "V",
+        "valueName": "Voltage effective",
+        "typeName": "L2-L1",
+        "value": "U_Effective"
+      },
+      "online": false,
+      "id": 21429,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3L2",
+        "unit": "V",
+        "valueName": "Voltage effective",
+        "typeName": "L3-L2",
+        "value": "U_Effective"
+      },
+      "online": false,
+      "id": 21430,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1L3",
+        "unit": "V",
+        "valueName": "Voltage effective",
+        "typeName": "L1-L3",
+        "value": "U_Effective"
+      },
+      "online": false,
+      "id": 21431,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "A",
+        "valueName": "Current effective",
+        "typeName": "L1",
+        "value": "I_Effective"
+      },
+      "online": false,
+      "id": 21432,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "A",
+        "valueName": "Current effective",
+        "typeName": "L2",
+        "value": "I_Effective"
+      },
+      "online": false,
+      "id": 21433,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "A",
+        "valueName": "Current effective",
+        "typeName": "L3",
+        "value": "I_Effective"
+      },
+      "online": false,
+      "id": 21434,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "W",
+        "valueName": "Active Power",
+        "typeName": "L1",
+        "value": "PowerActive"
+      },
+      "online": false,
+      "id": 21435,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "W",
+        "valueName": "Active Power",
+        "typeName": "L2",
+        "value": "PowerActive"
+      },
+      "online": false,
+      "id": 21436,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "W",
+        "valueName": "Active Power",
+        "typeName": "L3",
+        "value": "PowerActive"
+      },
+      "online": false,
+      "id": 21437,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "W",
+        "valueName": "Active Power",
+        "typeName": "Sum L1-L3",
+        "value": "PowerActive"
+      },
+      "online": false,
+      "id": 21421,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "Overall",
+        "unit": "Hz",
+        "valueName": "Frequency",
+        "typeName": "",
+        "value": "Frequency"
+      },
+      "online": false,
+      "id": 21424,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "",
+        "valueName": "cos phi(math.)",
+        "typeName": "L1",
+        "value": "CosPhi"
+      },
+      "online": false,
+      "id": 21447,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "",
+        "valueName": "cos phi(math.)",
+        "typeName": "L2",
+        "value": "CosPhi"
+      },
+      "online": false,
+      "id": 21448,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "",
+        "valueName": "cos phi(math.)",
+        "typeName": "L3",
+        "value": "CosPhi"
+      },
+      "online": false,
+      "id": 21449,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "",
+        "valueName": "cos phi(math.)",
+        "typeName": "Sum L1-L3",
+        "value": "CosPhi"
+      },
+      "online": false,
+      "id": 21423,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "%",
+        "valueName": "THD U",
+        "typeName": "L1",
+        "value": "TotalHarmonicDisturbation_U"
+      },
+      "online": false,
+      "id": 21441,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "%",
+        "valueName": "THD U",
+        "typeName": "L2",
+        "value": "TotalHarmonicDisturbation_U"
+      },
+      "online": false,
+      "id": 21442,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "%",
+        "valueName": "THD U",
+        "typeName": "L3",
+        "value": "TotalHarmonicDisturbation_U"
+      },
+      "online": false,
+      "id": 21443,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "%",
+        "valueName": "THD I",
+        "typeName": "L1",
+        "value": "TotalHarmonicDisturbation_I"
+      },
+      "online": false,
+      "id": 21444,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "%",
+        "valueName": "THD I",
+        "typeName": "L2",
+        "value": "TotalHarmonicDisturbation_I"
+      },
+      "online": false,
+      "id": 21445,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "%",
+        "valueName": "THD I",
+        "typeName": "L3",
+        "value": "TotalHarmonicDisturbation_I"
+      },
+      "online": false,
+      "id": 21446,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "Wh",
+        "valueName": "Active Energy",
+        "typeName": "L1",
+        "value": "ActiveEnergy"
+      },
+      "online": false,
+      "id": 21460,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "Wh",
+        "valueName": "Active Energy",
+        "typeName": "L2",
+        "value": "ActiveEnergy"
+      },
+      "online": false,
+      "id": 21461,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "Wh",
+        "valueName": "Active Energy",
+        "typeName": "L3",
+        "value": "ActiveEnergy"
+      },
+      "online": false,
+      "id": 21462,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "Wh",
+        "valueName": "Active Energy",
+        "typeName": "Sum L1-L3",
+        "value": "ActiveEnergy"
+      },
+      "online": false,
+      "id": 21450,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "Wh",
+        "valueName": "Consumed Active Energy",
+        "typeName": "L1",
+        "value": "ActiveEnergyConsumed"
+      },
+      "online": false,
+      "id": 21452,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "Wh",
+        "valueName": "Consumed Active Energy",
+        "typeName": "L2",
+        "value": "ActiveEnergyConsumed"
+      },
+      "online": false,
+      "id": 21453,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "Wh",
+        "valueName": "Consumed Active Energy",
+        "typeName": "L3",
+        "value": "ActiveEnergyConsumed"
+      },
+      "online": false,
+      "id": 21454,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "Wh",
+        "valueName": "Consumed Active Energy",
+        "typeName": "Sum L1-L3",
+        "value": "ActiveEnergyConsumed"
+      },
+      "online": false,
+      "id": 21455,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "Wh",
+        "valueName": "Supplied Active Energy",
+        "typeName": "L1",
+        "value": "ActiveEnergySupplied"
+      },
+      "online": false,
+      "id": 21463,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "Wh",
+        "valueName": "Supplied Active Energy",
+        "typeName": "L2",
+        "value": "ActiveEnergySupplied"
+      },
+      "online": false,
+      "id": 21464,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "Wh",
+        "valueName": "Supplied Active Energy",
+        "typeName": "L3",
+        "value": "ActiveEnergySupplied"
+      },
+      "online": false,
+      "id": 21465,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "Wh",
+        "valueName": "Supplied Active Energy",
+        "typeName": "Sum L1-L3",
+        "value": "ActiveEnergySupplied"
+      },
+      "online": false,
+      "id": 21466,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "varh",
+        "valueName": "Reactive Energy",
+        "typeName": "L1",
+        "value": "ReactiveEnergy"
+      },
+      "online": false,
+      "id": 21471,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "varh",
+        "valueName": "Reactive Energy",
+        "typeName": "L2",
+        "value": "ReactiveEnergy"
+      },
+      "online": false,
+      "id": 21472,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "varh",
+        "valueName": "Reactive Energy",
+        "typeName": "L3",
+        "value": "ReactiveEnergy"
+      },
+      "online": false,
+      "id": 21473,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "varh",
+        "valueName": "Reactive Energy",
+        "typeName": "Sum L1-L3",
+        "value": "ReactiveEnergy"
+      },
+      "online": false,
+      "id": 21451,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "varh",
+        "valueName": "Capacitive Reactive Energy",
+        "typeName": "L1",
+        "value": "ReactiveEnergyCap"
+      },
+      "online": false,
+      "id": 21467,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "varh",
+        "valueName": "Capacitive Reactive Energy",
+        "typeName": "L2",
+        "value": "ReactiveEnergyCap"
+      },
+      "online": false,
+      "id": 21468,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "varh",
+        "valueName": "Capacitive Reactive Energy",
+        "typeName": "L3",
+        "value": "ReactiveEnergyCap"
+      },
+      "online": false,
+      "id": 21469,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "varh",
+        "valueName": "Capacitive Reactive Energy",
+        "typeName": "Sum L1-L3",
+        "value": "ReactiveEnergyCap"
+      },
+      "online": false,
+      "id": 21470,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "varh",
+        "valueName": "Inductive Reactive Energy",
+        "typeName": "L1",
+        "value": "ReactiveEnergyInd"
+      },
+      "online": false,
+      "id": 21456,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "varh",
+        "valueName": "Inductive Reactive Energy",
+        "typeName": "L2",
+        "value": "ReactiveEnergyInd"
+      },
+      "online": false,
+      "id": 21457,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "varh",
+        "valueName": "Inductive Reactive Energy",
+        "typeName": "L3",
+        "value": "ReactiveEnergyInd"
+      },
+      "online": false,
+      "id": 21458,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "varh",
+        "valueName": "Inductive Reactive Energy",
+        "typeName": "Sum L1-L3",
+        "value": "ReactiveEnergyInd"
+      },
+      "online": false,
+      "id": 21459,
+      "timebase": 3600
+    },
+    {
+      "valueType": {
+        "type": "Temp_Extern1",
+        "unit": "°C",
+        "valueName": "Temperature",
+        "typeName": "External temperature 1",
+        "value": "Temperature"
+      },
+      "online": false,
+      "id": 21425,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L1",
+        "unit": "var",
+        "valueName": "Reactive power fundamental",
+        "typeName": "L1",
+        "value": "PowerReactivefund"
+      },
+      "online": false,
+      "id": 21438,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L2",
+        "unit": "var",
+        "valueName": "Reactive power fundamental",
+        "typeName": "L2",
+        "value": "PowerReactivefund"
+      },
+      "online": false,
+      "id": 21439,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "L3",
+        "unit": "var",
+        "valueName": "Reactive power fundamental",
+        "typeName": "L3",
+        "value": "PowerReactivefund"
+      },
+      "online": false,
+      "id": 21440,
+      "timebase": 900
+    },
+    {
+      "valueType": {
+        "type": "SUM13",
+        "unit": "var",
+        "valueName": "Reactive power fundamental",
+        "typeName": "Sum L1-L3",
+        "value": "PowerReactivefund"
+      },
+      "online": false,
+      "id": 21422,
+      "timebase": 900
+    }
+  ]
+}
